@@ -1,0 +1,16 @@
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\bin\Debug\net8.0-windows\array pract.exe
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\bin\Debug\net8.0-windows\array pract.deps.json
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\bin\Debug\net8.0-windows\array pract.runtimeconfig.json
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\bin\Debug\net8.0-windows\array pract.dll
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\bin\Debug\net8.0-windows\array pract.pdb
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\obj\Debug\net8.0-windows\array_pract.Form1.resources
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\obj\Debug\net8.0-windows\array pract.vbproj.GenerateResource.cache
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\obj\Debug\net8.0-windows\array pract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\obj\Debug\net8.0-windows\array pract.AssemblyInfoInputs.cache
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\obj\Debug\net8.0-windows\array pract.AssemblyInfo.vb
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\obj\Debug\net8.0-windows\array pract.vbproj.CoreCompileInputs.cache
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\obj\Debug\net8.0-windows\array pract.dll
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\obj\Debug\net8.0-windows\refint\array pract.dll
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\obj\Debug\net8.0-windows\array pract.pdb
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\obj\Debug\net8.0-windows\array pract.genruntimeconfig.cache
+C:\Users\BLESSINGSMAKOMBORERO\source\repos\array pract\array pract\obj\Debug\net8.0-windows\ref\array pract.dll
